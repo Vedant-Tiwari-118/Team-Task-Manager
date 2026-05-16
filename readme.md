@@ -120,7 +120,7 @@ Create a `.env` file in the `backend`.
 ```
 PORT=5000
 MONGO_URI=your_mongodb_connection_string
-WT_SECRET=mysecretkey
+JWT_SECRET=mysecretkey
 ADMIN_INVITE_TOKEN=123456
 ```
 ---
@@ -146,4 +146,3 @@ npm run dev
 Open your browser and go to `http://localhost:5173`
 
 ---
-
