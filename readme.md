@@ -101,7 +101,7 @@ Admin invite token : 123456 , if any one want to be Admin
 
 📧 Email: [vedant1admin@gmail.com](mailto:vedantadmin@gmail.com)
 🔒 Password: 12345678
-Admin invite token : 123456
+   , Admin invite token : 123456
 
 👤 User Login
 
