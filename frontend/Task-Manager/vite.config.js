@@ -6,6 +6,6 @@ import tailwindcss from '@tailwindcss/vite'
 export default defineConfig({
   plugins: [react(), tailwindcss()],
   preview: {
-    allowedHosts: ['.up.railway.app'],
+    allowedHosts: ['grateful-consideration-production-a901.up.railway.app'],
   },
 })
